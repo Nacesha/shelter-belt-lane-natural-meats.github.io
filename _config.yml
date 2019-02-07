@@ -7,25 +7,25 @@
     <style>
         body {
         background-color:rgb(207, 170, 97);
-        text-align: center;
+        
      }
      h1 {
          color:green;
-         
+                 text-align: center;
+
      }
      p {
          color:green;
-          
+                  text-align: center;
+
      }
      table {
          color:green;
-          
+                  text-align: center;
+
      }
     </style>
-    <body>
-        <p>
-            <img src="https://lh3.googleusercontent.com/esOJP9jtPhae6stJ-GNRo-D1b--fuutuu9pKdrOYSxW2ChtFyhhj7OcjoX5nDWlg7vtW_cM=s114" width="200">
-        </p>
+    
         <h1> Shelter Belt Lane Natural Meats</h1>
        
         <p> Shelter Belt Lane Natural Meat's is the place to go, were the price is low. Fresh cow meat of all types.</p>
@@ -77,5 +77,8 @@
         <img src="https://www.worcesternews.co.uk/resources/images/7867293.jpg?display=1&htype=0&type=responsive-gallery" width="200">
         </p>
         
-    </body>
+    <p>
+            <img src="https://lh3.googleusercontent.com/esOJP9jtPhae6stJ-GNRo-D1b--fuutuu9pKdrOYSxW2ChtFyhhj7OcjoX5nDWlg7vtW_cM=s114" width="300">
+        </p>
+   
 </html>
