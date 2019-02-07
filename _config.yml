@@ -1,1 +1,81 @@
-theme: jekyll-theme-merlot
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "HTML internal links"</title>
+    </head>
+    <style>
+        body {
+        background-color:rgb(207, 170, 97);
+        text-align: center;
+     }
+     h1 {
+         color:green;
+         
+     }
+     p {
+         color:green;
+          
+     }
+     table {
+         color:green;
+          
+     }
+    </style>
+    <body>
+    
+        <h1> Shelter Belt Lane Natural Meats</h1>
+       
+        <p> Shelter Belt Lane Natural Meat's is the place to go, were the price is low. Fresh cow meat of all types.</p>
+    
+        <p>
+        <img src="https://cdn.arstechnica.net/wp-content/uploads/2015/04/1024px-Cow-IMG_2050-640x480.jpg" width="200">
+        </p>
+        
+        <table align="center">
+            <thead>
+                <tr>
+                    <th> TYPE~~</th>
+                    <th> PRICE</th>
+                </tr>
+            </thead>
+        
+       <tbody>
+           <tr>
+                <td>Shoulder</td>
+                <td>$0.00</td>
+           </tr>
+            <tr>
+                <td>Roast Rump</td>
+                <td>$0.00</td>
+           </tr>
+           <tr>
+                <td>Swiss</td>
+                <td>$0.00</td>
+           </tr>
+           <tr>
+                <td>Minute Steak</td>
+                <td>$0.00</td>
+           </tr>
+           <tr>
+                <td>T-Bone Steak</td>
+                <td>$0.00</td>
+           </tr>
+           <tr>
+                <td>Hambuger</td>
+                <td>$0.00</td>
+           </tr>
+           <tr>
+                <td>Rib-Eye</td>
+                <td>$0.00</td>
+           </tr>
+           </tbody>
+     </table>
+       <p>
+        <img src="https://www.worcesternews.co.uk/resources/images/7867293.jpg?display=1&htype=0&type=responsive-gallery" width="200">
+        </p>
+        <p>
+            <img src="https://lh3.googleusercontent.com/esOJP9jtPhae6stJ-GNRo-D1b--fuutuu9pKdrOYSxW2ChtFyhhj7OcjoX5nDWlg7vtW_cM=s114">
+        </p>
+    </body>
+</html>
