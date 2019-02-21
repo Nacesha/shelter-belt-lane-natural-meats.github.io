@@ -26,7 +26,6 @@
      }
      #cow1 {
         border:6px solid green;
-        
         }
     </style>
     <body>
