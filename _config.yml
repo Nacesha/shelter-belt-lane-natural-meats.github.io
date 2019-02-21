@@ -6,7 +6,7 @@
     </head>
     <style>
         body {
-        background-color:rgb(255, 255, 0);
+        background-color:rgb(210, 200, 110);
         text-align:center;
         font-family: cursive;
      }
