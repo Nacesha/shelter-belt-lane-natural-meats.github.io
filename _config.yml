@@ -24,7 +24,7 @@
      table {
          color:green;
      }
-     .cow1 {
+     #cow1 {
         border:6px solid brown;
         
         }
