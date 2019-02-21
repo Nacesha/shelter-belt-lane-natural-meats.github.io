@@ -28,7 +28,11 @@
         border:6px dashed green;
         }
         #cow2 {
-           border:6px dashed green;}
+           border:6px dashed green;
+           }
+           #cow-owners{
+              border:6px double green;
+           }
     </style>
     <body>
     
@@ -85,7 +89,7 @@
         <h2> Owners </h2>
         <p>Roger & Carolyn Vech</p>
        <p>
-       <img src="https://github.com/Nacesha/Roger-Farm-Cow.github.io/blob/master/received_241887343383207%20(3).jpeg?raw=true"></p>
+       <img id="cow-owners" src="https://github.com/Nacesha/Roger-Farm-Cow.github.io/blob/master/received_241887343383207%20(3).jpeg?raw=true"></p>
        <h3> Contact</h3>
        <p>Phone: 402-000-000</p>
        <p>Email: abcde@gmail.com</p>
