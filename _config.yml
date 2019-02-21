@@ -24,6 +24,10 @@
      table {
          color:green;
      }
+     .cow1 {
+        border:6px solid brown;
+        
+        }
     </style>
     <body>
     
@@ -32,7 +36,7 @@
         <p> Shelter Belt Lane Natural Meat's is the place to go, were the price is low. Fresh cow meat of all types.</p>
     
         <p>
-        <img src="https://github.com/Nacesha/shelter-belt-lane-natural-meats.github.io/blob/master/received_1065744980282555.jpeg?raw=true" width="200">
+        <img id="cow1"src="https://github.com/Nacesha/shelter-belt-lane-natural-meats.github.io/blob/master/received_1065744980282555.jpeg?raw=true" width="200">
         </p>
         
         <table align="center">
